@@ -1,0 +1,27 @@
+{
+  "name": "dashboard",
+  "homepage": "https://github.com/Rockit/Rockit",
+  "authors": [
+    "Andrew Skaper <andrew@skaper.info>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "yes"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "font-awesome": "~4.4.0",
+    "highcharts": "highcharts-release#~4.1.9",
+    "bootstrap": "~3.3.5"
+  }
+}
