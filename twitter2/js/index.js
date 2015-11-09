@@ -6,4 +6,9 @@ var currentUser = {
   id: 1
 };
 
-$(function () {});
+$(function (){
+
+    
+
+
+});
