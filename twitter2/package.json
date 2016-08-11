@@ -20,6 +20,7 @@
     "gulp-util": "^3.0.5",
     "hbsfy": "^2.2.1",
     "json-server": "^0.7.12",
+    "sass": "^0.5.0",
     "vinyl-source-stream": "^1.1.0"
   },
   "private": true,
